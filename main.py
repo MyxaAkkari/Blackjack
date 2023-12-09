@@ -1,7 +1,7 @@
 ############### Blackjack Project #####################
 import random
 import os
-from pythonUdemy.Blackjack.art import logo
+from art import logo
 
 os.system('clear')
 # Gets a random card from deck
